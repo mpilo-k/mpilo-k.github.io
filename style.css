@@ -12,3 +12,15 @@ footer {
 	margin: 0;
 	padding: 0;
 }
+.side-nav{
+	height: 100%;
+    width: 100px;
+    background: beige;
+    float: left;
+}
+.right-side{
+	height: 100%;
+    width: calc(100% - 100px);
+    float: right;
+    background: aquamarine;
+}
